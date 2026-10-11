@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2026-10-11T07:52:41Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20261011075241</dc:identifier>
+    <dc:title>कलिमहिमा</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">मोतीराम भट्ट</dc:creator>
+    <dc:date>2026-10-11T07:52:41Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <meta name="source_publisher" content="राष्ट्रिय युवा सेवा कोष (मोती ग्रन्थावली)"></meta>
+    <meta name="source_edition" content="प्रथम"></meta>
+    <meta name="source_year" content="२०४५"></meta>
+    <meta name="source_isbn" content=""></meta>
+    <meta name="book_about" content="ई. १९१४ (सं. १९७०-७१ ) मा प्रकाशित उषा चरित्रश्लोक भाषा शीर्षक पुस्तकमा उषाचरित्र सकिएपछि कलिमहिमाका ३४ श्लोक रहेका छन्। मोतीरामले कलिमहिमा संस्कृत मूलको शब्दानुवाद नगरी मूल रचनाको आधारमा तयार पारेको देखिन्छ । यसमा कहीं कहीं सोझो अनुवाद पनि हुन पुगेको छ भने कहीं मूलको व्याख्या र कहीं संक्षिप्तता पनि । त्यसैले मोतीराम भट्टको यस कृतिलाई संस्कृत 'कलिमहिमा'को आधार लिई तयार पारेको कृति मान्नु पर्दछ ।&#10;–रमा शर्मा"></meta>
+    <meta name="book_genre" content="खण्डकाव्य"></meta>
+    <meta name="book_slug" content="kalimahima"></meta>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/kalimahima-sampadakiya.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="text/kalimahima.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+  </spine>
+</package>
